@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+psutil
+mysql-connector-python
+numpy
+scikit-learn
