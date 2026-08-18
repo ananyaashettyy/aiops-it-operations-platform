@@ -122,4 +122,3 @@ Frontend
 
 http://localhost:5173
 
-This version is much better for the **top portion of your GitHub README**: short introduction → capabilities → architecture → workflow → tech stack → commands.
